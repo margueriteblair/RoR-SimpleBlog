@@ -28,6 +28,7 @@ class PostsController < ApplicationController
         @post = Post.find(params[:id])
         @post.destroy
         redirect_to posts_path
+    end
 
     def create
         @post = Post.new(post_params)
