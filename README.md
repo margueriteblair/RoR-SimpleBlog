@@ -6,6 +6,8 @@ This simple application makes use of:
 
 * Rails framework
 
+* Model-View-Controller (MVC) design pattern
+
 * Rails generators
 
 * Database creation
