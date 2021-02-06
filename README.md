@@ -1,24 +1,14 @@
-# README
+# Ruby On Rails - SimpleBlog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This simple application makes use of:
 
-Things you may want to cover:
+* Ruby
 
-* Ruby version
+* Rails framework
 
-* System dependencies
-
-* Configuration
+* Rails generators
 
 * Database creation
 
 * Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
